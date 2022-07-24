@@ -1,4 +1,4 @@
-FROM ghost:3-alpine
+FROM ghost:5-alpine
 
 EXPOSE 8080
 
